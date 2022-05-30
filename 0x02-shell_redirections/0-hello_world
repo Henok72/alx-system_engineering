@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Memory information\n"
+printf "Hello, World\n"
